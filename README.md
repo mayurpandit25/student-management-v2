@@ -14,9 +14,3 @@ A Java-based Student Management System.
 ## Database
 
 Database: school_db
-
-
-Open:
-http://localhost:8080/student
-
-
